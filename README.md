@@ -1,22 +1,28 @@
-
 <img width="1000px"  src="https://github.com/ViniciusS26/ViniciusS26/blob/main/capa.png"/> 
 
 ****
-### Olá, eu sou o Vinicius Nunes👋
-Graduando em Sistemas de informação, estudante de tecnologia com abjetivo de atuar profissionalmente na área,espeficamente com Desenvolvimento Web. Com conhecimento em Suporte Técnico, Redes de computadores e IA
+## Olá, eu sou o Vinicius Nunes👋
+<p>
+Graduando em Sistemas de informação, estudante de tecnologia com abjetivo de atuar profissionalmente na área,espeficamente com Desenvolvimento Web.Atuação em Suporte Técnico N2 e Desenvolvimento Web Back-end, combinando mais de 2  anos de experiência em atendimento e resolução de incidentes com sólido, domínio técnico em Python, FastAPI, Docker e PostgreSQL. 
+</p>
 
-##### 🖥️ Tecnologias Backend:
+***
+### 🖥️ Tecnologias Backend:
 <div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;&nbsp;
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,linux,docker,c,vim,fastapi,django,postgres" />
+      </a>
+    </p>
 </div>
 
-##### 🖥️ Tecnologias Frontend:
+### 🖥️ Tecnologias Frontend:
 <div style="display: inline">
-  &nbsp;&nbsp;<img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />&nbsp;&nbsp;&nbsp;
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css,javascript,html,react,vue" />
+    </a>
+  </p>
 </div>
 
 ****
@@ -34,3 +40,4 @@ Graduando em Sistemas de informação, estudante de tecnologia com abjetivo de a
 <img width="350px" height="400px" background-color="buefy" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS26&hide=html&layout=compact&theme=buefy"/> 
 
 ![Meus Stars](https://github-readme-stats.vercel.app/api?username=ViniciusS26&show_icons=true&theme=radical)
+

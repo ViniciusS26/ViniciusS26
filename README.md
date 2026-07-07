@@ -33,11 +33,24 @@ Graduando em Sistemas de informação, estudante de tecnologia com abjetivo de a
     <a href="https://www.instagram.com/ofcvsn/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-
 </p>
 
 
-<img width="350px" height="400px" background-color="buefy" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusS26&hide=html&layout=compact&theme=buefy"/> 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api?username=ViniciusS26&rank_icon=percentile&custom_title=Estatisticas&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ViniciusS26&layout=compact&langs_count=7&theme=transparent" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-![Meus Stars](https://github-readme-stats.vercel.app/api?username=ViniciusS26&show_icons=true&theme=radical)
+
+
 

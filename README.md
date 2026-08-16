@@ -3,7 +3,7 @@
 ****
 ## Olá, eu sou o Vinicius Nunes👋
 <p>
-Graduando em Sistemas de informação, estudante de tecnologia com abjetivo de atuar profissionalmente na área,espeficamente com Desenvolvimento Web.Atuação em Suporte Técnico N2 e Desenvolvimento Web Back-end, combinando mais de 2  anos de experiência em atendimento e resolução de incidentes com sólido, domínio técnico em Python, FastAPI, Docker e PostgreSQL. 
+Graduando em Sistemas de informação, estudante de tecnologia com abjetivo de atuar profissionalmente na área, especialmente com Desenvolvimento Web. Atuação em Suporte Técnico N2 e Desenvolvimento Web Full Stack Jr, combinando mais de 2  anos de experiência em atendimento e resolução de incidentes com sólido, domínio técnico em Python, FastAPI, Docker e PostgreSQL. 
 </p>
 
 ***
